@@ -148,9 +148,9 @@ Forking creates a personal copy of someone else’s GitHub repository under your
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 - GitHub Issues: Tracking Bugs & Tasks
 - GitHub Issues are a built-in way to report bugs, suggest features, and track tasks.
-✅ Bug Tracking → Report and discuss issues in a structured way.
-✅ Task Management → Assign tasks to team members with labels and milestones.
-✅ Documentation & Discussion → Provide context, solutions, and track progress.
+- ✅ Bug Tracking → Report and discuss issues in a structured way.
+- ✅ Task Management → Assign tasks to team members with labels and milestones.
+- ✅ Documentation & Discussion → Provide context, solutions, and track progress.
 - GitHub Project Boards: Organizing Workflows
 Project boards help manage tasks using Kanban-style lists like:
 📌 To Do → Planned tasks
